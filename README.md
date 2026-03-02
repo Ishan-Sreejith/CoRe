@@ -14,12 +14,14 @@ Welcome to FrameForge, a modern programming language designed with modularity, s
 Ready to experience the future of programming? Follow these steps to begin your journey with FrameForge:
 
 1.  **Installation:**
+
+2.  **Note that the files provided in the repository are executables and need to be downloaded before use. The arm64vm, metroman and forge work on all devices except for the native assembly pathway which only works on apple silicon. 
     ```bash
     # Coming Soon: Installation instructions for FrameForge
     ```
     *Stay tuned for official installation guides as we approach our initial release!*
 
-2.  **Your First FrameForge Program:**
+3.  **Your First FrameForge Program:**
     Let's write a classic "Hello, World!" program in FrameForge.
 
     ```frameforge
